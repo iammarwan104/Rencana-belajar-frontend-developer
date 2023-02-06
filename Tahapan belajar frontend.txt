@@ -9,7 +9,7 @@ Moderen CSS
   - CSS Modules
 CSS Framework
   - Tailwind
-  Bootstrap
+  - Bootstrap
 Testing
   - Jeal
   - react-testing-library

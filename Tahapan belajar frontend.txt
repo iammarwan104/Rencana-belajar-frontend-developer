@@ -6,3 +6,5 @@ GIT & GITHUB
 NPM
 Moderen CSS
 CSS Framework
+Testing
+Authentication Strategies

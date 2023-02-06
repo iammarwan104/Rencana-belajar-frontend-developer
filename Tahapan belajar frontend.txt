@@ -5,6 +5,13 @@ JAVACRIPT
 GIT & GITHUB
 NPM
 Moderen CSS
+  - styled componenta
+  - CSS Modules
 CSS Framework
+  - Tailwind
 Testing
+  - Jeal
+  - react-testing-library
+  - Cypress
+  - Playwright
 Authentication Strategies

@@ -1,0 +1,8 @@
+Alur Belajar Frontend Developer
+HTML
+CSS
+JAVACRIPT
+GIT & GITHUB
+NPM
+Moderen CSS
+CSS Framework
